@@ -1,0 +1,1 @@
+Now we add more text files and write up some sentences and then see what happens if we add it to staging dir
