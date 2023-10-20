@@ -1,0 +1,1 @@
+Now the lecture about Git is almost over . I hope soon i can merge all my notes about it with Git merge
