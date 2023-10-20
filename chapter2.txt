@@ -1,1 +1,2 @@
 Now we add more text files and write up some sentences and then see what happens if we add it to staging dir
+also learning how to use terminal, memorize the commands to do something
