@@ -1,2 +1,3 @@
 Now we open chapter 3 and add some sentences in there as well. the point of having multiple lines and multiple files is yet to be upfolded.
 upfolded is an expression which means discovered. yet to be discovered 
+It takes much longer than 1 hour to learn Git . In fact for 10 minutes lecture i need one hour to understand it
